@@ -32,6 +32,17 @@ Integration with Git for version control and code management
 Automated notifications and alerts for timely updates and status changes
 Comprehensive reporting and dashboard capabilities for performance analysis and monitoring
 - Tools Used: JIRA
+- Repository link:
+
+### Project 3: Music store data analysis
+- Description: The Music Store Data Analysis project aims to explore and analyze the sales and customer data of a music store. By leveraging SQL queries, the project seeks to derive valuable insights into customer preferences, popular music genres, and sales performance, enabling data-driven decision-making for the music store business.
+- Project goals:
+Analyze sales trends and patterns in music store transactions.
+Identify the top-selling music genres and artists based on customer preferences.
+Evaluate customer purchase behavior and identify potential areas for customer engagement.
+Provide actionable insights for optimizing inventory management and marketing strategies.
+- Tools used: Pgadmin, SQL
+- Repository link: 
 
 
 
