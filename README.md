@@ -42,7 +42,7 @@ Identify the top-selling music genres and artists based on customer preferences.
 Evaluate customer purchase behavior and identify potential areas for customer engagement.
 Provide actionable insights for optimizing inventory management and marketing strategies.
 - Tools used: Pgadmin, SQL
-- Repository link: https://github.com/Chandrakiranhj/Music-store-analysis.git
+- Repository link: [Music store data analysis](https://github.com/Chandrakiranhj/Music-store-analysis.git)
   
 
 
